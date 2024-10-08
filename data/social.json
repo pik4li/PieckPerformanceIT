@@ -1,0 +1,19 @@
+{
+  "main": [
+    {
+      "name": "E-Mail",
+      "icon": "fab fa-envelope",
+      "link": "mailto:info@pieck-performance.de"
+    },
+    {
+      "name": "Tel",
+      "icon": "fab fa-phone",
+      "link": "tel:017632169460"
+    },
+    {
+      "name": "gitea",
+      "icon": "fab fa-github",
+      "link": "https://git.k4li.de/pika"
+    }
+  ]
+}
