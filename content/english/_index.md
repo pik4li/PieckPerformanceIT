@@ -13,14 +13,12 @@ banner:
 features:
   - title: "tl;dr -> Pieck-Performance im schnelldurchlauf"
     image: "/images/service-1.png"
-    content: "Sie haben ein **kleines Unternehmen**, oder eine **Private Firma**, und benötigen meine IT-Performance? Dann sind Sie hier genau richtig! Im folgenden nur ein paar Beispiele, wie ich Ihnen helfen kann:"
+    content: "Betrieben Sie ein **kleines Unternehmen** oder eine **private Firma** und benötigen Unterstützung im IT-Bereich? Dann sind Sie hier genau richtig! Im Folgenden finden Sie einige Beispiele, wie ich Sie unterstützen kann:"
     bulletpoints:
       - "Allgemeine IT-Beratung"
       - "Heimnetz/Firmennetz setup (Fritzbox, PfSense, OPN-Sense etc.)"
       - "Aufbau von Netzwerkressourcen (z.B. NAS (Synology, WD, QNAP), Firewall, DNS-Server, Active-Directory Administration etc.)"
       - "Hilfe beim Setup von VPN-Services (Gerne auch selbstgehostet mit Docker und Wireguard für maximale Effizienz und Sicherheit!)"
-      # - "SEO-optimized for better search engine rankings"
-      # - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
       label: "Get Started Now"
@@ -34,8 +32,8 @@ features:
       - "Die Privatsphäre wird bei Anbietern wie Microsoft, Google und AVM (Fritzbox) nicht wirklich eingehalten und beachtet. Open-source Software-Herstellern sind die Telemetriedaten meisten egal, weshalb bei den meisten Open-source Anwendungen auch keine Daten gespeichert oder übermittelt werden"
       - "Bugs und Sicherheitslücken können deutlich schneller ausgehebelt werden, da jeder auf der Welt an dem SourceCode mitarbeiten kann, und den Fehler, Bug oder die Sicherheitslücke schließen kann."
     button:
-      enable: true
-      label: "Get Started Now"
+      enable: false
+      label: "Zum Blogpost"
       link: "https://github.com/zeon-studio/hugoplate"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
