@@ -2,6 +2,16 @@
 {{ partial "page-header" . }}
 
 
+<div class="container">
+  <div class="row justify-center">
+    <div class="lg:col-10">
+      <div class="content" id="impressum">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+
 <section class="section-sm">
   <div class="container">
     <div class="row">
@@ -32,16 +42,6 @@
     </div>
   </div>
 </section>
-
-<div class="container">
-  <div class="row justify-center">
-    <div class="lg:col-10">
-      <div class="content" id="impressum">
-        {{ .Content }}
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- google map -->
 {{ with site.Params.google_map }}
