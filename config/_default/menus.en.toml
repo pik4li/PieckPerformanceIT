@@ -23,8 +23,8 @@ name = "Sonstiges"
 [[main]]
 parent = "Sonstiges"
 name = "Blog"
-# url = "/blog"
-url = "https://blog.k4li.me/"
+url = "/blog"
+# url = "https://blog.k4li.me/"
 
 [[main]]
 parent = "Sonstiges"
@@ -52,6 +52,10 @@ url = "/categories"
 name = "Über mich"
 url = "/about"
 weight = 1
+
+[[footer]]
+name = "Impressum"
+url = "/contact#impressum"
 
 # [[footer]]
 # name = "Elements"
