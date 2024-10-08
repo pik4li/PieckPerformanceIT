@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Mehr erfahren"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "#"
 
 # Features
 features:
@@ -32,9 +32,9 @@ features:
       - "Die Privatsphäre wird bei Anbietern wie Microsoft, Google und AVM (Fritzbox) nicht wirklich eingehalten und beachtet. Open-source Software-Herstellern sind die Telemetriedaten meisten egal, weshalb bei den meisten Open-source Anwendungen auch keine Daten gespeichert oder übermittelt werden"
       - "Bugs und Sicherheitslücken können deutlich schneller ausgehebelt werden, da jeder auf der Welt an dem SourceCode mitarbeiten kann, und den Fehler, Bug oder die Sicherheitslücke schließen kann."
     button:
-      enable: false
+      enable: true
       label: "Zum Blogpost"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "blog/opensource"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"

@@ -36,10 +36,10 @@ url = "/contact"
 # name = "Authors"
 # url = "/authors"
 
-[[main]]
-parent = "Sonstiges"
-name = "Kategorien"
-url = "/categories"
+# [[main]]
+# parent = "Sonstiges"
+# name = "Kategorien"
+# url = "/categories"
 
 # [[main]]
 # parent = "Sonstiges"
@@ -62,7 +62,7 @@ url = "/contact#impressum"
 # url = "/elements"
 # weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-weight = 3
+# [[footer]]
+# name = "Privacy Policy"
+# url = "/privacy-policy"
+# weight = 3
