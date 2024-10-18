@@ -28,18 +28,13 @@ url = "/blog"
 
 [[main]]
 parent = "Sonstiges"
+name = "Wiki"
+url = "https://doku.pieck-performance.it/"
+
+[[main]]
+parent = "Sonstiges"
 name = "Kontakt"
 url = "/contact"
-
-# [[main]]
-# parent = "Sonstiges"
-# name = "Authors"
-# url = "/authors"
-
-# [[main]]
-# parent = "Sonstiges"
-# name = "Kategorien"
-# url = "/categories"
 
 # [[main]]
 # parent = "Sonstiges"
@@ -56,6 +51,12 @@ weight = 1
 [[footer]]
 name = "Impressum"
 url = "/contact#impressum"
+weight = 2
+
+[[footer]]
+name = "Wiki"
+url = "https://doku.pieck-performance.it/"
+weight = 3
 
 # [[footer]]
 # name = "Elements"
