@@ -2,12 +2,12 @@
   "main": [
     {
       "name": "E-Mail",
-      "icon": "fab fa-envelope",
+      "icon": "fa fa-envelope",
       "link": "mailto:info@pieck-performance.de"
     },
     {
       "name": "Tel",
-      "icon": "fab fa-phone",
+      "icon": "fa fa-phone",
       "link": "tel:017632169460"
     },
     {
