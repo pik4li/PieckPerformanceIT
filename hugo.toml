@@ -6,7 +6,7 @@ title = "Pieck-Performance IT"
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "Europe/Berlin"
+timeZone = "CET"
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
@@ -78,7 +78,7 @@ target = '$1'
 
 ############################# Outputs ############################
 [outputs]
-home = ["HTML", "RSS", "WebAppManifest", "SearchIndex"]
+home = ["HTML", "RSS", "Sitemap", "WebAppManifest", "SearchIndex"]
 
 ############################# Imaging ############################
 [imaging]
