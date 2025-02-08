@@ -5,7 +5,7 @@ description: "this is meta description"
 draft: false
 ---
 
-{{< accordion "Impressum" >}}
+> Hast du Fragen oder möchtest du mehr über meine Dienstleistungen erfahren? Schreib mir einfach eine E-Mail an [info@pieck-performance.de](mailto:info@pieck-performance.de) mit dem Betreff „Anfrage“ – wir freuen uns, von dir zu hören!“
 
 # Impressum
 
@@ -16,5 +16,3 @@ draft: false
 | Anschrift    | Ensingerstraße 37                               |
 | Ort          | 89073 Ulm, Baden-Württemberg                    |
 | Steuernummer | 88/825/70485                                    |
-
-{{< /accordion >}}
