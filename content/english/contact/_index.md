@@ -11,7 +11,7 @@ draft: false
 
 |              |                                                 |
 | ------------ | ----------------------------------------------- |
-| E-Mail       | [info@team-pieck.de](mailto:info@team-pieck.de) |
+| E-Mail       | [info@pieck-performance.de](mailto:info@pieck-performance.de) |
 | Telefon      | [0176/32169460](tel:+4917632169460)             |
 | Anschrift    | Ensingerstraße 37                               |
 | Ort          | 89073 Ulm, Baden-Württemberg                    |
