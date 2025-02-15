@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 meta_title: ""
-description: "this is meta description"
+description: "Kontakt PieckPerformance IT in Ulm"
 draft: false
 ---
 
